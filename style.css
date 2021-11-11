@@ -1,0 +1,64 @@
+a {
+    color: #2176FF;
+    cursor: pointer;  
+    text-decoration: underline;
+  }
+   
+  a:hover {
+    text-decoration: none;
+  }
+  
+  .nav-link{
+    text-decoration: none;
+  }
+  
+  .nav-link:hover{
+      color: #5495ff;
+      border: 1px solid #5495ff;
+  }
+  
+  
+  .btn{
+      font-size: 16px;
+      font-weight: 400;
+      padding: 14px;
+      color: #ffffff;
+      border: 1px solid #ffffff;
+      border-radius: 5px;
+      padding: 10px;
+      text-decoration: none;
+      font-family: 'Raleway', sans-serif;
+      cursor: pointer;
+  
+  }
+  
+  
+  .btn:hover{
+    border: 1px solid #5495ff;
+    background-color: #5495ff;
+  }
+  
+  .btn:active{
+   padding: 12px;
+   font-size: 14px;
+  }
+  
+  .activity{
+    text-decoration: none;
+    cursor: pointer;
+    
+  }
+  
+  .activity:hover{
+    border: 5px solid #736B92;
+    color: #736B92;
+  
+  }
+  
+  .activity:active{
+    font-size: 40px;
+    font-weight: 700;
+    color: #736B92;
+  }
+  
+  
